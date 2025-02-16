@@ -1,0 +1,3 @@
+# Off-by-One Error in C++ Loops
+
+This repository demonstrates a common off-by-one error in C++ loops that can lead to accessing elements outside the bounds of arrays or vectors.  The code in `bug.cpp` showcases this issue with both `std::vector` and raw arrays. The corrected version is in `bugSolution.cpp`. Understanding and avoiding off-by-one errors is crucial for writing robust and reliable C++ code.
